@@ -1,111 +1,152 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sanchayan%20Chakraborty&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<h1 align="center"> Sanchayan Chakraborty </h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=DaOhesis">
-    <img src="https://komarev.com/ghpvc/?username=DaOhesis&label=Profile%20views&color=00FFFF&style=flat-square" alt="DaOhesis's profile views" />
-  </a>
+  AI Systems Engineer • LLM Post-Training & Alignment • Agentic Systems • Harness Engineering
 </p>
 
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- I'm a Computer Science Engineering student interested in Machine Learning, AI, and modern LLM systems.
-- I enjoy understanding how things work under the hood and turning what I learn into projects. Currently, I'm exploring LLMs, RAG, model fine-tuning, inference engineering, and AI application development.
-
-
-## 🧠 My Focus Areas
-- Machine Learning & Deep Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LLM Fine-tuning & Preference Optimization
-- Inference & Harness Engineering
-- MCPs & AI Agents
-- AI-powered applications
-- Research & experimentation
-
-
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/DaOhesis">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaOhesis&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="DaOhesis's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=DaOhesis&theme=radical&hide_border=true&cache_seconds=86400" alt="DaOhesis's GitHub Streak" width="49%" />
+  <b>PyTorch</b> | <b>LangGraph</b> | <b>MCP</b> | <b>vLLM</b> | <b>FastAPI</b> | <b>PostgreSQL</b> | <b>NumPy</b>
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=DaOhesis&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sanchayan Chakraborty's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DaOhesis&theme=radical&radius=10" alt="DaOhesis's Activity Graph" />
-</p>
+
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0f172a&height=220&section=header&text=Sanchayan%20Chakraborty&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=AI%20Systems%20Engineer%20%7C%20Post-Training,%20Agents%20%26%20Harness%20Architecture&descFontSize=21" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38bdf8&center=true&vCenter=true&width=860&lines=Architecting+Stateful+Multi-Agent+Workflows+%26+MCP+Systems;Post-Training+%26+Preference+Alignment+(SFT,+QLoRA,+DPO,+GRPO);Harness+Engineering:+Reliable+Tooling,+Loops+%26+Evaluation;Building+Production-Grade+RAG+%26+Vector+Retrieval+Pipelines" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://img.shields.io/badge/Status-KIIT%20CS%20Undergrad-blueviolet?style=for-the-badge"><img src="https://img.shields.io/badge/Status-KIIT%20CS%20Undergrad-blueviolet?style=for-the-badge" /></a>
+    <a href="mailto:sanchayanchak06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/sanchayan-chakraborty-a17311372/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/DaOhesis"><img src="https://img.shields.io/badge/GitHub-DaOhesis-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 </div>
 
+---
 
-## 🛠️ Languages & Tools
+### 🏛️ Engineering Philosophy
+> "True AI reliability is an engineering discipline: moving beyond brittle prompting through rigorous post-training alignment, deterministic schema contracts, and self-correcting harness environments."
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+**CS Student @ KIIT | AI & Systems Engineer.** Focused on the full lifecycle of intelligent systems — from foundational transformer mechanics and post-training preference alignment to stateful multi-agent orchestration and production evaluation harnesses.
 
-</p>
+* **Core Focus:** Post-training alignment (DPO / PPO / GRPO), parameter-efficient fine-tuning (LoRA / QLoRA), low-latency KV-cache inference architectures, and Model Context Protocol (MCP) tool integration.
+* **Harness Engineering Mindset:** Designing execution environments, deterministic feedback loops, validation barriers, and observability harnesses that transform probabilistic models into reliable, autonomous systems.
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+---
 
-</p>
+### 🔬 Technical Specialization & Focus Areas
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+```
+┌──────────────────────────────────────┐     ┌──────────────────────────────────────┐
+│  LLMs & Transformer Architecture     │     │  Post-Training & Alignment           │
+├──────────────────────────────────────┤     ├──────────────────────────────────────┤
+│ • Self/Cross-Attention & KV Cache    │     │ • RLHF & Preference Optimization     │
+│ • FlashAttention & Efficient Compute │     │ • DPO, PPO & GRPO Alignments         │
+│ • Pretraining, SFT & Tokenization    │     │ • Reward Modeling & Loss Shaping     │
+│ • PEFT: LoRA, QLoRA & Quantization   │     │ • Hallucination & Drift Mitigation   │
+└──────────────────────────────────────┘     └──────────────────────────────────────┘
+                   ▼                                            ▼
+┌──────────────────────────────────────┐     ┌──────────────────────────────────────┐
+│  Generative AI & Semantic RAG        │     │  Agentic AI & Harness Engineering    │
+├──────────────────────────────────────┤     ├──────────────────────────────────────┤
+│ • Retrieval-Augmented Generation     │     │ • LangGraph Stateful Graph Workflows │
+│ • Text Splitters & Semantic Chunking │     │ • Tool Calling & Multi-Step Planning │
+│ • Dense/Sparse Vector Stores         │     │ • Model Context Protocol (MCP)       │
+│ • End-to-End Evaluation & Reranking  │     │ • Execution Sandboxes & Feedback Loops│
+└──────────────────────────────────────┘     └──────────────────────────────────────┘
+```
 
-</p>
+---
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+### 🛠️ Technical Infrastructure
 
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>🧠 LLM & Deep Learning</b><br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square" />
+      <br/>
+      <img src="https://img.shields.io/badge/PEFT_/_LoRA-8A2BE2?style=flat-square" />
+      <img src="https://img.shields.io/badge/DPO_/_RLHF-10B981?style=flat-square" />
+      <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>🤖 Agents, RAG & Backend</b><br/><br/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-Protocol-orange?style=flat-square" />
+      <br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>💻 Core & Foundations</b><br/><br/>
+      <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_/_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
+---
 
-</p>
+### 🚀 Signature Engineering
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+#### [DocSense: Smart Document & Form Intelligence](https://github.com/DaOhesis/docsense)
+> *Modular, Schema-Contract Document Extraction & Automated Validation Pipeline*
 
-</p>
+A production-grade document intelligence and layout parsing engine designed around rigid schema contracts to transform unstructured receipts, forms, and invoices into strictly validated, searchable records.
+* **Deterministic Verification:** Eliminates hallucinations through rule-based cross-validation (checksum parity, mathematical ledger reconciliation, regex constraints, bounding box confidence thresholds) with human-in-the-loop escalation.
+* **Pipeline:** Modular stages (`Preprocess` → `OCR Tokenization` → `Layout Classification` → `K-V / Table Extraction` → `Rule Validation Engine`).
+* **Stack:** Python, OpenCV (deskew/denoise), Tesseract / PaddleOCR, Pydantic, FastAPI, PostgreSQL.
 
-<p align="center">
-  <a href="https://github.com/DaOhesis">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaOhesis&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+#### [Imbalanced Fraud Classifier (From Scratch)](https://github.com/DaOhesis/Imbalanced-Fraud-Classifier)
+> *Custom Mathematical Modeling for Highly Skewed Anomaly Distributions*
 
-![Top language](https://stats.pphat.top/languages?username=DaOhesis)
+An end-to-end Machine Learning engine tackling severe class imbalance (<0.2% fraud frequency) by discarding black-box abstractions and building the core algorithms completely from first principles in NumPy.
+* **Mathematical Implementation:** Custom vectorized Sigmoid activation, Gradient Descent optimizer, and Binary Log Loss (Cross-Entropy) to guarantee convex optimization.
+* **Imbalance Mitigation:** Formulated a weighted loss function penalizing false negatives with asymmetrical class weights ($w_1 \gg w_0$) to maintain high recall without collapsing precision. Evaluated on PR-AUC, Precision-Recall curves, and cost-weighted business risk thresholds.
+* **Stack:** Python, NumPy (Vectorized Math), Pandas, Scikit-Learn (Evaluation Only), Matplotlib / Seaborn.
+
+#### [Makemore: First-Principles Autoregressive Modeling](https://github.com/DaOhesis/makemore)
+> *Architectural Evolution of Character-Level Generative Language Models*
+
+An architectural deep dive implementing character-level generative language models from the ground up in PyTorch, exploring the foundational mechanics that power modern generative architectures.
+* **Architectural Progression:** Implemented statistical Bigram count matrices (MLE), Neural Probabilistic Language Models (Bengio et al., 2003) with character embedding tables, and deep Multi-Layer Perceptrons (MLPs).
+* **Optimization Diagnostics:** Explores manual backpropagation, activation distributions, batch normalization dynamics, gradient health tracking, and negative log-likelihood (NLL) optimization on 32,000+ vocabulary sequences.
+* **Stack:** PyTorch, Python, Tensor Math, Matplotlib.
+
+#### [ToneDeaf: Real-Time Voice-Clone Detection Gateway (SIH26104)](https://github.com/DaOhesis/ToneDeaf)
+> *AI-Powered Real-Time Detection & Verification Gateway for Voice Impersonation Attacks*
+
+An end-to-end anti-spoofing gateway engineered to expose and bridge the real-world generalization gap in spectral deepfake detection.
+* **Architecture & Generalization:** Built upon **AASIST** (Graph Attention Network). Exposing the real-world domain collapse from clean benchmarks (0.67% EER) to wild web audio (43.0% EER), followed by mixed-domain fine-tuning recovering robustness to **3.17% EER** in the wild.
+* **Edge Inference & Policy:** Standardized streaming pipeline with **2.56s / 40,960-sample sliding windows** at 16kHz, Platt scaling calibration into bounded spoof risk probabilities, and a multi-window temporal voting policy.
+* **Stack:** PyTorch, ONNX Runtime, Librosa, Coqui XTTS-v2, FastAPI.
+
+---
+
+### 📊 GitHub Engineering Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaOhesis&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaOhesis&layout=compact&theme=tokyonight&border_radius=10&bg_color=0f172a&title_color=38bdf8" height="160" />
+</div>
 <br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaOhesis&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="100%" />
+</div>
+
+---
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sanchayan-chakraborty-a17311372/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -115,15 +156,18 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaOhesis/DaOhesis/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaOhesis/DaOhesis/output/github-snake.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<p align="center">
+  <i>"Deterministic contracts, calibrated risk, empirical engineering."</i>
+</p>
